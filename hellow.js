@@ -1,0 +1,1 @@
+angular.module("app",[]).controller("hell",function($scope){$scope.message="hello world"})
