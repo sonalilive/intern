@@ -1,9 +1,9 @@
 import React from 'react';
 
-function hello(){
+function Hello(){
     return(
 <div>
 <h2>plz work</h2>
   </div>  );
 }
-export default hello;
+export default Hello;

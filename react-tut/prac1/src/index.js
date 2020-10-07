@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import hello from "./hello";
+import Hello from "./Hello";
 /*const name='sonali';
 const ele=<h1>hello {name}</h1>;
 ReactDOM.render(
@@ -11,5 +11,5 @@ ReactDOM.render(
 
 
 ReactDOM.render(
-  <hello />,document.getElementById("root")
+  <Hello />,document.getElementById("root")
 );
